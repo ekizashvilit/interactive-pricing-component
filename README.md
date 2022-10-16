@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Interactive Pricing Component](https://your-live-site-url.com)
+- Live Site URL: [Interactive Pricing Component](https://ekizashvilit.github.io/interactive-pricing-component/)
 
 ## My process
 
